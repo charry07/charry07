@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m @charry07 Anderson Charry Naranjo and Ingineering Student.<br>- 👀 I’m interested in software Development...<br>- 🌱 I’m currently Working with Paradigma Solutions as Software Developer...<br><!-- - 💞️ I’m looking to collaborate on New Project... --><br>- 📫 How to reach me charry072013@gmail.com...
+- 👋 Hi, I’m @charry07 Anderson Charry Naranjo and systems Ingineering.<br>- 👀 I’m interested in software Development...<br>- 🌱 I’m currently Working with Paradigma Solutions as Software Developer...<br><!-- - 💞️ I’m looking to collaborate on New Project... --><br>- 📫 How to reach me charry072013@gmail.com...
 
   - My Portfolio => https://my-portfolio-evy.pages.dev/
 
