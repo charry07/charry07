@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://my-portfolio-evy.pages.dev/">
+  <a href="https://my-portfolio-evy.pages.dev/" target="_blank">
     <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
   </a>
 </div>
