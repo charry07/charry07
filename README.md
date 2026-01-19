@@ -49,7 +49,7 @@
 🌱 I’m currently Working with Kane Solutions as Software Developer...<br>
 💞️ I’m looking to collaborate on New Project...<br>
 📫 How to reach me mailto:charry072013@gmail.com<br>
-My Portfolio => https://my-portfolio-evy.pages.dev/
+My Portfolio => https://my-portfolio-evy.pages.dev/<br>
 My Linkedin => https://www.linkedin.com/in/charry07
 
 
