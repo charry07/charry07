@@ -50,6 +50,7 @@
 💞️ I’m looking to collaborate on New Project...<br>
 📫 How to reach me mailto:charry072013@gmail.com<br>
 My Portfolio => https://my-portfolio-evy.pages.dev/
+My Linkedin => https://www.linkedin.com/in/charry07
 
 
 # 💻 Tech Stack:
